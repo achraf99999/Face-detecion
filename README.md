@@ -4,8 +4,4 @@ A deep learning based model for detecting masks over faces in public place to cu
 
 We have used pretained ImageNet and FaceNet models.
 
-Sample -
 
-
-Contributions -
-Made by Sorav Negi & Milan kandwal
