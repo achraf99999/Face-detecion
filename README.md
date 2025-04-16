@@ -1,2 +1,2 @@
 # Detecion
-Check Master branch 
+You can Find the project on Master branch 
